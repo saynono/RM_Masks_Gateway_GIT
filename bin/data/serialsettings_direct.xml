@@ -1,0 +1,28 @@
+<settings>
+    <masks amount="4">
+        <mask id="1">
+            <mask_name>Hannes</mask_name>
+            <port_listening>5301</port_listening>
+            <port_sending>5301</port_sending>
+            <ip_sending>192.168.2.6</ip_sending>
+        </mask>
+        <mask id="2">
+            <mask_name>Felix</mask_name>
+            <port_listening>5302</port_listening>
+            <port_sending>5302</port_sending>
+            <ip_sending>192.168.2.6</ip_sending>
+        </mask>
+        <mask id="2">
+            <mask_name>Roland</mask_name>
+            <port_listening>5303</port_listening>
+            <port_sending>5303</port_sending>
+            <ip_sending>192.168.2.6</ip_sending>
+        </mask>
+        <mask id="2">
+            <mask_name>Nadine</mask_name>
+            <port_listening>5304</port_listening>
+            <port_sending>5304</port_sending>
+            <ip_sending>192.168.2.6</ip_sending>
+        </mask>
+    </masks>
+</settings>
